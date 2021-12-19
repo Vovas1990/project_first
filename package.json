@@ -22,7 +22,9 @@
     "gulp-autoprefixer": "^8.0.0",
     "gulp-clean-css": "^4.3.0",
     "gulp-cli": "^2.3.0",
-    "gulp-sass": "^5.0.0"
-  },
-  "dependencies": {}
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^5.0.0",
+    "node-sass": "6.0",
+    "sass-loader": "^12.4.0"
+  }
 }
